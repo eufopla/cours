@@ -1,4 +1,4 @@
-#exercice 4
+#exercice 4 autres modifs
 
 def rendu_monnaie (somme_a_rendre : float, monnaie_a_disposition:list):
     rendu = []
