@@ -1,5 +1,7 @@
 #exercice 4 modification
 
+#commit
+
 def rendu_monnaie (somme_a_rendre : float, monnaie_a_disposition:list):
     rendu = []
     rendu_temp = []
