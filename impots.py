@@ -30,4 +30,6 @@ def rendu_monnaie (somme_a_rendre : float, monnaie_a_disposition:list):
 
 print("Rendu de monnaie avec le nombre d'unités : ",rendu_monnaie(65.0,[10.0,50.0,0.5,10.0,5.0]))
 
+#modifications
+
 #blablabla
